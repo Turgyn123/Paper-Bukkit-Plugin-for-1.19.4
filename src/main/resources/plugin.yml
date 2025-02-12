@@ -1,0 +1,6 @@
+name: KingdomData
+version: 1.0
+main: net.kingdomdata.Main
+api-version: 1.19
+description: Simple Plugin to change recipes
+author: Turgyn
